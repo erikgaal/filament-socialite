@@ -8,6 +8,7 @@ use DutchCodingCompany\FilamentSocialite\Events\RegistrationNotEnabled;
 use DutchCodingCompany\FilamentSocialite\Events\UserNotAllowed;
 use DutchCodingCompany\FilamentSocialite\FilamentSocialitePlugin;
 use DutchCodingCompany\FilamentSocialite\Tests\Fixtures\TestSocialiteUser;
+
 use Illuminate\Contracts\Auth\Authenticatable;
 use Illuminate\Support\Facades\Crypt;
 use Illuminate\Support\Facades\DB;
